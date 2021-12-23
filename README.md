@@ -16,8 +16,8 @@
   <!--   Python -->
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-<!--   <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/215999176700329985/923388550454603776/gsgomes-profile.png?width=394&height=394">
-</div> -->
+  <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/215999176700329985/923414649377026108/gabriel_profile.png?width=498&height=498">
+</div>
   
 ##
   
