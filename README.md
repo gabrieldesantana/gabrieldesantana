@@ -1,5 +1,5 @@
 <!-- ## Olá eu sou o Gabriel de Santana ;) -->
-<h1 align="center">Olá, eu sou o Gabriel de Santana 👨🏽‍💻💻</h1>
+<h1 align="center">Olá, eu sou o Gabriel de Santana 👨🏽‍💻</h1>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=gabrieldesantana&color=blue" alt="gabrieldesantana"/></p>
 
