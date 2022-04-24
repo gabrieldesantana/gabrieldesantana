@@ -14,9 +14,14 @@
   <!--   JavaScript -->
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--   Python -->
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!--   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-    original.svg"> -->
+  <!--   CSharp -->
+  <img align="center" alt="Gabriel-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <!--   dotnet -->
+  <img align="center" alt="Gabriel-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />         
+    
   
-  <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/215999176700329985/923414649377026108/gabriel_profile.png?width=498&height=498">
+  <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753788905425207378/967780337746866176/download20220400103251.png?width=406&height=406">
 </div>
   
 ##
