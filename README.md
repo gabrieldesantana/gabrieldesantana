@@ -1,4 +1,7 @@
 ## Olá eu sou o Gabriel de Santana ;)
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=gabrieldesantana&color=blue" alt="gabrieldesantana"/></p>
+
 <div align="center">
   <a href="https://github.com/gabrieldesantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldesantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
