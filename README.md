@@ -22,8 +22,9 @@
   <!--   CSharp -->
   <img align="center" alt="Gabriel-CSharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <!--   dotnet -->
-  <img align="center" alt="Gabriel-DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />         
-    
+  <img align="center" alt="Gabriel-DotNet" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />  
+  <!--   dotnetCore -->
+  <img align="center" alt="Gabriel-DotNetCore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   
   <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753788905425207378/967780337746866176/download20220400103251.png?width=406&height=406">
 </div>
