@@ -1,6 +1,11 @@
 <!-- ## Olá eu sou o Gabriel de Santana ;) -->
-<h1 align="center">Olá, eu sou o Gabriel de Santana 👨🏽‍💻</h1>
+<h1 align="center">Olá, eu sou o Gabriel de Santana 👨🏽‍💻 Desenvolvedor .Net</h1>
 
+<h2>Hard Skills:</h2>
+
+<h4>Back-End: | C# | .Net | Asp.Net Core | Asp.Net MVC | EF Core | SQL Server |</h4>
+<h4>Front-End: | Html | Css | BootStrap | JavaScript |</h4>
+<hr>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=gabrieldesantana&color=blue" alt="gabrieldesantana"/></p>
 
 <div align="center">
