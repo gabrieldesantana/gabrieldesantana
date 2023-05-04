@@ -1,10 +1,20 @@
 <!-- ## Olá eu sou o Gabriel de Santana ;) -->
 <h1 align="center">Olá, eu sou o Gabriel de Santana 👨🏽‍💻 Desenvolvedor .Net</h1>
 
-<h2>Hard Skills:</h2>
-
-<h4>Back-End: | C# | .Net | Asp.Net Core | Asp.Net MVC | EF Core | SQL Server |</h4>
-<h4>Front-End: | Html | Css | BootStrap | JavaScript |</h4>
+▪ .NET Core/5+, C#
+▪ SQL Server
+▪ Gitlab, Github, BitBucket
+▪ xUnit, Swagger
+▪ Scrum, Kanban
+▪ Agile, Pair Programming
+▪ SOLID, Clean Code
+▪ Monolítica, Microsserviços
+▪ Docker, Kubernetes
+▪ Google Cloud
+▪ Jenkins CI/CD, Postman, SoapUi
+▪ JWT
+▪ RabbitMQ
+▪ Dynatrace
 <hr>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=gabrieldesantana&color=blue" alt="gabrieldesantana"/></p>
 
@@ -31,8 +41,8 @@
   <!--   dotnetCore -->
   <img align="center" alt="Gabriel-DotNetCore" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   
-  <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753788905425207378/967780337746866176/download20220400103251.png?width=406&height=406">
-</div>
+<!--   <img align="right" alt="Gabriel-profile" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/753788905425207378/967780337746866176/download20220400103251.png?width=406&height=406">
+</div> -->
   
 ##
   
@@ -42,6 +52,6 @@
   <a href = "mailto:gabrieldesantana.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrieldesantana01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/gabrieldesantana/gabrieldesantana/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/gabrieldesantana/gabrieldesantana/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
