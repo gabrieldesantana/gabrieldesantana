@@ -55,10 +55,8 @@
 ##
   
 <div>
-<h2>Redes Sociais:</h2>
+<h2>Find me:</h2>
   <a href = "mailto:gabrieldesantana.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrieldesantana01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/gabrieldesantana/gabrieldesantana/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
